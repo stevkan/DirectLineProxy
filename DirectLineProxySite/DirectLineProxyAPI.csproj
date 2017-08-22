@@ -4,14 +4,15 @@
     <Description>IO.Swagger</Description>
     <Copyright>IO.Swagger</Copyright>
     <AssemblyTitle>Swagger UI</AssemblyTitle>
-    <TargetFramework>netcoreapp1.0</TargetFramework>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PreserveCompilationContext>true</PreserveCompilationContext>
-    <AssemblyName>IO.Swagger</AssemblyName>
+    <AssemblyName>DirectLineProxyAPI</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>IO.Swagger</PackageId>
     <RuntimeFrameworkVersion>1.0.4</RuntimeFrameworkVersion>
     <PackageTargetFallback>$(PackageTargetFallback);dotnet5.6;dnxcore50;netstandard1.6;portable-net452+win81</PackageTargetFallback>
+    <RootNamespace>DirectLineProxyAPI</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
